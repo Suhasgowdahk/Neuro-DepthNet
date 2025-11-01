@@ -1,0 +1,12 @@
+.classification-visual {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 20px 0;
+}
+
+.classification-visual h4 {
+    margin-bottom: 15px;
+    color: #333;
+}
